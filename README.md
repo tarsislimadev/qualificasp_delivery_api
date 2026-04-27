@@ -1,1 +1,7 @@
-# qualificasp_delivery_api
+# QualificaSP Delivery API
+
+
+
+## license
+
+[MIT](./LICENSE)
